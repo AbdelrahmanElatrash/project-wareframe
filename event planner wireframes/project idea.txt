@@ -1,0 +1,27 @@
+1) Project Idea:
+*.Identify the problem your web app will solve or the need it will fulfill?
+ans : our web app will give the user the chance to plan there events with ther custom ideas or with our ready packages of event planning
+*. Explain how your web app will be useful? 
+ans : our web app will gather some nessecery important features for every even in one place such as (music, food, flowers, buy stuff for the event) 
+////////////////////////////////////////////////////////////////////////////////////////////////////
+2) Functionality Plan:
+*.Identify the key features that will be included in your web app?
+ans : add event info ( date, location, event, description) / pick music / pick food / pick flower / Gifts 
+      Ready packages (music, food, flower, Gifts) that we provide / user can update there data
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+3) 3rd party API:
+*. Find an appropriate API (data retrieving) that will help you implementing your project?
+ans : Food API :https://spoonacular.com/food-api
+      Music API :https://www.last.fm/api
+      Flowers API : https://docs.trefle.io/
+      amazon API : https://www.asindataapi.com/
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+4) Wireframe:
+ans :one drive link : https://drive.google.com/drive/folders/1lYJwySo3R9jyn2pSZp6-NeEAlF6FqgvC
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+5) Trello : 
+*.Create a public board on Trello, and submit it's link?
+ans : bord link : https://trello.com/b/y451mpJx/project-week
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+6) Project name :
+ans : CelebratePro / EventElevat
